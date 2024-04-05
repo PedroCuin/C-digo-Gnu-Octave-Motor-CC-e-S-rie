@@ -1,0 +1,1 @@
+O código grafico_tabela_1 refere-se ao motor de corrente contínua, já o grafico_tabela_2 ao motor série
